@@ -1,5 +1,5 @@
 import os
-
+# 第一次使用pycharm加git
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 from keras.preprocessing.image import ImageDataGenerator
 from keras.models import Sequential
